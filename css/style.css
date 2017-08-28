@@ -1,0 +1,60 @@
+
+header.masthead{
+    background-image: url(../img/fondo11.jpg);
+    opacity: 0.9;
+}
+#mainNav .navbar-brand {
+   
+    font-family: 'Calligraffitti', cursive!important;
+    font-weight: bold;
+    text-transform: none;
+    color: goldenrod;
+    font-size: 70px;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px; 
+}
+header.masthead .header-content .header-content-inner h1 {
+   
+    font-size: 40px;
+    color: goldenrod;
+    
+}
+
+#mainNav .navbar-nav>li.nav-item>a.nav-link, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus {
+    color: #d6a920;
+   
+}
+#mainNav .navbar-nav>li.nav-item>a.nav-link, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus {
+    margin-right: 125px;
+    }
+header.masthead .header-content .header-content-inner p {
+    color: orangered;
+    font-size: 30px;
+    text-shadow: 1px 1px;
+}
+.navbar-brand js-scroll-trigger titulo{
+    font-size: 20px;
+    text-shadow: 2px 2px;
+    
+    
+}
+.btn-primary{
+    color: black;
+}
+li{
+    list-style-type:  none;
+}
+h2{
+    color: black!important;
+    
+}
+
+/*Mediaquery para el papaluna pequeñito*/
+@media (min-width: 992px){
+
+#mainNav.navbar-shrink .navbar-brand {
+    font-size: 16px;
+    color: orangered;
+    text-shadow: none;
+}
+    }
