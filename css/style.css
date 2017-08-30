@@ -1,6 +1,6 @@
 
 header.masthead{
-    background-image: url(../fondo11.jpg);
+    background-image:url(../fon.jpg);
     opacity: 0.9;
 }
 #mainNav .navbar-brand {
@@ -22,6 +22,7 @@ header.masthead .header-content .header-content-inner h1 {
 
 #mainNav .navbar-nav>li.nav-item>a.nav-link, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus {
     color: #d6a920;
+    font-size:20px;
    
 }
 #mainNav .navbar-nav>li.nav-item>a.nav-link, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus {
