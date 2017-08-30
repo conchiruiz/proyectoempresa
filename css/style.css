@@ -1,6 +1,7 @@
 
 header.masthead{
-    background-image:url(../fon.jpg);
+    background-color: salmon;
+    background-image:url(../fon1.jpg);
     opacity: 0.9;
 }
 #mainNav .navbar-brand {
@@ -59,3 +60,6 @@ h2{
     text-shadow: none;
 }
     }
+.fa-whatsapp{
+    font-size: 3em;
+}
